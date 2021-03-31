@@ -1,0 +1,3 @@
+[submodule "HALs/u8g2-kendryte-hal"]
+	path = HALs/u8g2-kendryte-hal
+	url = git@github.com:sreedevk/u8g2-kendryte-sdk-hal.git

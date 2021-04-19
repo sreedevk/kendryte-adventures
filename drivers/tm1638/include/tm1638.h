@@ -88,7 +88,7 @@ typedef enum {
   TM1638_CHAR_4   = 0x66,
   TM1638_CHAR_5   = 0x6D,
   TM1638_CHAR_6   = 0x7C,
-  TM1638_CHAR_7   = 0x1C,
+  TM1638_CHAR_7   = 0x07,
   TM1638_CHAR_8   = 0x7F,
   TM1638_CHAR_9   = 0x6F,
   TM1638_CHAR_DOT = 0x80
